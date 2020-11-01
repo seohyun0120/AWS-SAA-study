@@ -35,3 +35,13 @@ Section 3 - Identity and Access Management & S3
 - [Storage Gateway](s3/s3/../Stroage%20Gateway.md)
 - [S3 and IAM Summary](s3/s3/../S3%20and%20IAM%20summary.md)
 - [QUIZ](S3/quiz.md)
+
+
+Section 4 - EC2
+- [AMI Types (EBS vs Instance Store)](S4/AMI%20Types%20(EBS%20vs.%20Instance%20Store).md)
+- [EBS 101](S4/EBS%20101.md)
+- [EC2 101- Elastic Compute Cloud](S4/EC2%20101%20-%20Elastic%20Compute%20Cloud.md)
+- [Encrypted Root Device Volumes and Snapshots](S4/Encrypted%20Root%20Device%20Volumes%20and%20Snapshots%20-%20Demo.md)
+- [ENI vs ENA vs EFA](S4/ENI%20vs.%20ENA%20vs.%20EFA%20[SAA-C02].md)
+- [Launch Our First EC2 Instance](S4/Launch%20Our%20First%20EC2%20Instance.md)
+- [Security Groups](S4/Security%20Groups.md)
