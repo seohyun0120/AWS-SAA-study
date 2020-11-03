@@ -36,7 +36,6 @@ Section 3 - Identity and Access Management & S3
 - [S3 and IAM Summary](s3/s3/../S3%20and%20IAM%20summary.md)
 - [QUIZ](S3/quiz.md)
 
-
 Section 4 - EC2
 - [AMI Types (EBS vs Instance Store)](S4/AMI%20Types%20(EBS%20vs.%20Instance%20Store).md)
 - [EBS 101](S4/EBS%20101.md)
@@ -45,3 +44,13 @@ Section 4 - EC2
 - [ENI vs ENA vs EFA](S4/ENI%20vs.%20ENA%20vs.%20EFA%20[SAA-C02].md)
 - [Launch Our First EC2 Instance](S4/Launch%20Our%20First%20EC2%20Instance.md)
 - [Security Groups](S4/Security%20Groups.md)
+- [Amazon FSx for Windows and Amazon FSx for Lustre](s4/Amazon%20FSx%20for%20Windows%20and%20Amazon%20FSx%20for%20Lustre.md)
+- [AWS Command Line (CLI)](s4/AWS%20Command%20Line%20(CLI).md)
+- [Cloudwatch](s4/Cloudwatch.md)
+- [EC2 Hibernate](s4/EC2%20Hibernate.md)
+- [EC2 Placement Groups](s4/EC2%20Placement%20Groups.md)
+- [EFS](s4/EFS.md)
+- [HPC on AWS](s4/HPC%20%20on%20AWS.md)
+- [Identity and Access Management Roles](s4/Identity%20and%20Access%20Management%20Roles.md)
+- [Instance Metadata](S4/Instance%20Metadata.md)
+- [Spot Instances and Spot Fleets](s4/Spot%20Instances%20and%20Spot%20Fleets.md)
