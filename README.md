@@ -54,3 +54,6 @@ Section 4 - EC2
 - [Identity and Access Management Roles](s4/Identity%20and%20Access%20Management%20Roles.md)
 - [Instance Metadata](S4/Instance%20Metadata.md)
 - [Spot Instances and Spot Fleets](s4/Spot%20Instances%20and%20Spot%20Fleets.md)
+- [AWS WAF](s4/AWS%20WAF.md)
+- [EC2 Summary](s4/EC2%20Summary.md)
+- [QUIZ](S4/quiz.md)
