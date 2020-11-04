@@ -1,0 +1,27 @@
+# Section 4
+
+## QUIZ
+
+![Q1](../picture/s4-quiz-1.png)
+![Q2](../picture/s4-quiz-2.png)
+![Q3](../picture/s4-quiz-3.png)
+![Q4](../picture/s4-quiz-4.png)
+![Q5](../picture/s4-quiz-5.png)
+![Q6](../picture/s4-quiz-6.png)
+![Q7](../picture/s4-quiz-7.png)
+![Q8](../picture/s4-quiz-8.png)
+![Q9](../picture/s4-quiz-9.png)
+![Q10](../picture/s4-quiz-10.png)
+![Q11](../picture/s4-quiz-11.png)
+![Q12](../picture/s4-quiz-12.png)
+![Q13](../picture/s4-quiz-13.png)
+![Q14](../picture/s4-quiz-14.png)
+![Q15](../picture/s4-quiz-15.png)
+![Q16](../picture/s4-quiz-16.png)
+![Q17](../picture/s4-quiz-17.png)
+![Q18](../picture/s4-quiz-18.png)
+![Q19](../picture/s4-quiz-19.png)
+![Q20](../picture/s4-quiz-20.png)
+![Q21](../picture/s4-quiz-21.png)
+![Q22](../picture/s4-quiz-22.png)
+![Q23](../picture/s4-quiz-23.png)
