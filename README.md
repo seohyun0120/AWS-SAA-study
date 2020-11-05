@@ -57,3 +57,15 @@ Section 4 - EC2
 - [AWS WAF](s4/AWS%20WAF.md)
 - [EC2 Summary](s4/EC2%20Summary.md)
 - [QUIZ](S4/quiz.md)
+
+Seciton 5 - Database
+-[Aurora](s5/Aurora.md)
+-[Caching Strategies on AWS](s5/Caching%20Strategies%20on%20AWS.md)
+-[Create our first RDS instance](s5/Create%20Our%20First%20RDS%20Instance.md)
+-[DynamoDB](S5/DynamoDB.md)
+-[Elasticache](s5/Elasticache.md)
+-[EMR Overview](s5/EMR%20Overview.md)
+-[rds backups, multi AZ, read replicas](s5/RDS%20Backups,%20Mutil%20AZ%20&%20Read%20Replicas.md)
+-[Redshift](s5/RedShift.md)
+-[SCT in Action](s5/SCT%20in%20Action.md)
+-[Databse Summary](s5/Database%20Summary.md)
